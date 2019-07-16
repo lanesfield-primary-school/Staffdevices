@@ -1,0 +1,2 @@
+# Staffdevices
+asset register 
